@@ -1,0 +1,15 @@
+h1 {
+	color:#79f096;
+	text-align:center;
+}
+
+p	{
+	color:blue;
+}
+
+div {
+	margin:10px;
+	width:25%;
+	background-color:teal;
+	padding:20px;
+}
